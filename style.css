@@ -1,0 +1,38 @@
+body {
+    font-size: 10pt;
+    text-align: center;
+    align-items:center ;
+    justify-content:center;
+    text-outline:white ;
+}
+.img{
+  align-self: center;
+}
+p{
+  color:#797979;
+}
+input{
+  color:#C1C1C1;
+  border-radius:5px;
+  border: solid;
+  height: 35px;
+  width: 230px;
+}
+button{
+  background:#2B75FF;
+  color:white;
+  border: none;
+  border-radius:5px;
+  height: 35px;
+  width: 230px;
+}
+a{
+  color:#2B75FF;
+  background:#FFFFFF;
+}
+.yo-btn{
+  background: #FFFFFF;
+  color:#2B75FF;
+  border: 1px solid #2B75FF;
+  text-align: center;
+}
